@@ -104,4 +104,4 @@ L.control.layers(baseMaps, overlayMaps, {collapsed: false}).addTo(map);
 map.fitBounds([[48.8075764862, 2.43459296452], [48.892675, 2.27947]]);
 ```
 
-[Rendu final](http://localhost:8082/map.html)
+[Rendu final](https://github.com/guillemcanal/zelda-interactive-map)
