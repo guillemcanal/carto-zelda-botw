@@ -1,0 +1,6 @@
+prez:
+  image: gcanal/reveal:3.2.0
+  ports:
+    - 9000:9000
+  volumes:
+    - ./reveal:/src
