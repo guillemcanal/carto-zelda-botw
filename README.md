@@ -1,7 +1,7 @@
 # Introduction à la cartographie avec Zelda Breath of the Wild
 
 Consulter la présentation sur Github Pages:  
-[guillemcanal.github.io/docker-prez](http://guillemcanal.github.io/carto-zelda-botw)
+[guillemcanal.github.io/carto-zelda-botw](http://guillemcanal.github.io/carto-zelda-botw)
 
 ## Dépendances
 
